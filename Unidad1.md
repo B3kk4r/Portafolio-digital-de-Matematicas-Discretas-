@@ -18,4 +18,4 @@ Diapositivas creadas a modo de clase invertida, con el proposito de conocer las 
 [ACD2](ACD2.pdf)
 
 ### Trabajos AA
-[AA1](Lectura y 
+[AA1](LecturayEjercicios.pdf)
