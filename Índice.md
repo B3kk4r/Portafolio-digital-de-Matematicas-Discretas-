@@ -11,7 +11,7 @@
 
 #### **Período académico:** Septiembre 2025 - Febrero 2026
 
-#### **Docente:** 
+#### **Docente:** Cueva Hurtado Mario Enrique
 
 #### **Estudiante:** Isaac Alejandro Vire Poma
 
