@@ -13,7 +13,7 @@
 
 #### **Docente:** Cueva Hurtado Mario Enrique
 
-#### **Estudiante:** Isaac Alejandro Vire Poma
+#### **Estudiante:** Vire Poma Isaac Alejandro
 
 ## 📚  Tabla de Contenidos
 
