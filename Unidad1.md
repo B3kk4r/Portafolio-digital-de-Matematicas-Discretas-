@@ -21,8 +21,6 @@ Con el modo de clase invertida en cuenta, se crearon diapositivas con el proposi
 [ACD2](ACD2.pdf)
 
 ##### -Trabajos AA
-Se realizaron los ejercicios teniendo en cuenta las leyes proposicionales y las reglas de inferencia básicas, aprendidas anteriormente. Se hizo de manera grupal e individual.
+Se realizaron los ejercicios teniendo en cuenta las leyes proposicionales y las reglas de inferencia básicas, aprendidas anteriormente.
 
-[AA1-Individual](LecturayEjercicios.pdf)
-
-[AA1-Grupal](Trabajo.pdf)
+[AAl](LecturayEjercicios.pdf)
