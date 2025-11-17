@@ -11,7 +11,7 @@ En el grupo CCDJI, se llevo a cabo la realización de ejercicos relacionados a t
 
 ### Trabajos ACD
 ##### -Lógica proposicional, conectores y tablas de verdad
-Con el modo de clase invertida en cuenta, se crearon diapositivas para obtener conocimiento de los conceptos básicos de matemática discreta. Se llevo a cabo de manera individual, al no haber conformado un grupo.
+Con el modo de clase invertida en cuenta, se crearon diapositivas para obtener conocimiento de los conceptos básicos de matemática discreta. Se llevo a cabo de manera individual, al no haber podido conformar un grupo.
 
 [ACD1](ACD1.pdf)
 
@@ -21,6 +21,7 @@ Con el modo de clase invertida en cuenta, se crearon diapositivas con el proposi
 [ACD2](ACD2.pdf)
 
 ##### -Trabajos AA
-Se realizaron los ejercicios teniendo en cuenta las leyes proposicionales y las reglas de inferencia básicas aprendidas anteriormente. 
+Se realizaron los ejercicios teniendo en cuenta las leyes proposicionales y las reglas de inferencia básicas, aprendidas anteriormente. Se hizo de manera grupal e individual.
 
-[AA1](LecturayEjercicios.pdf)
+[AA1-Individual](LecturayEjercicios.pdf)
+[AA1-Grupal](
