@@ -23,4 +23,4 @@ Con el modo de clase invertida en cuenta, se crearon diapositivas con el proposi
 ##### -Trabajos AA
 Se realizaron los ejercicios teniendo en cuenta las leyes proposicionales y las reglas de inferencia básicas, aprendidas anteriormente.
 
-[AAl](LecturayEjercicios.pdf)
+[AA1](LecturayEjercicios.pdf)
